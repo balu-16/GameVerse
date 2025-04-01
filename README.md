@@ -30,13 +30,6 @@ GameVerse is a small gaming platform featuring three classic games: **Rock Paper
    ```
 Run the application
 
-If it's a web-based project: Open index.html in your browser.
-
-If it's a Python-based project:
-
-```bash
-python main.py
-```
 ## 🖥️ Technologies Used  
 - **Python / JavaScript** (depending on your implementation)  
 - **HTML, CSS** (for UI, if applicable)  
