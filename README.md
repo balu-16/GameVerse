@@ -37,17 +37,19 @@ If it's a Python-based project:
 ```bash
 python main.py
 ```
-🖥️ Technologies Used
-Python / JavaScript (depending on your implementation)
+## 🖥️ Technologies Used  
+- **Python / JavaScript** (depending on your implementation)  
+- **HTML, CSS** (for UI, if applicable)  
 
-HTML, CSS (for UI, if applicable)
+---
 
-🎯 Future Improvements
-Leaderboard system to track wins and scores
+## 🎯 Future Improvements  
+- **Leaderboard system** to track wins and scores  
+- **More game additions** to expand the platform**  
+- **User accounts** for personalized gameplay  
 
-More game additions to expand the platform
+---
 
-User accounts for personalized gameplay
+## 📩 Contribution  
+Want to contribute? Feel free to **fork the repository**, make changes, and submit a **pull request**!  
 
-📩 Contribution
-Want to contribute? Feel free to fork the repository, make changes, and submit a pull request!
