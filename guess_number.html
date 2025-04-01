@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>Guess the Number</h1>
+    </header>
+    <main>
+        <div class="game-area">
+            <p>Guess a number between 1 and 100:</p>
+            <input type="number" id="guess" />
+            <button onclick="checkGuess()">Guess</button>
+            <p id="feedback"></p>
+        </div>
+        <a href="index.html" class="back-button">Back to Home</a>
+    </main>
+    <footer></footer>
+
+    <script src="js/guess_number.js"></script>
+</body>
+
+</html>
