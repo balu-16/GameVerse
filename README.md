@@ -46,3 +46,9 @@ Run the application
 ## 📩 Contribution  
 Want to contribute? Feel free to **fork the repository**, make changes, and submit a **pull request**!  
 
+---
+
+## License
+This project is licensed as **proprietary and confidential**.  
+**You may not reuse, modify, or redistribute any part of this code.**
+
